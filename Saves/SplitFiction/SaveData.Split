@@ -1,3 +1,17 @@
 {
-	"EULA_Accepted": "true"
+	"EULA_Accepted": "true",
+	"FriendsPassInfoShown": "True",
+	"UID": "04FB40A84DB1A4A6CEA0409510269A2C",
+	"FurthestUnlockedChapter": "/Game/Maps/Coast/TwistyTrain/Coast_TwistyTrain_BP##WingsuitIntro",
+	"LastSaveProgressPoint": "/Game/Maps/Tundra/Crack/Swamp/Tundra_Crack_Swamp_BP##Swamp_CoastPortalFinished",
+	"LastSaveChapter": "/Game/Maps/Tundra/Crack/Swamp/Tundra_Crack_Swamp_BP##Swamp_Wetlands",
+	"ProfileCounter.PhoneGameProgress": "4",
+	"SideContent.Unlock./Game/Maps/Desert/Desert/Desert_SandFish_BP##Intro": "true",
+	"SideContent.Complete./Game/Maps/Desert/Desert/Desert_SandFish_BP##Intro": "true",
+	"SideContent.Unlock./Game/Maps/PigWorld/PigWorld_BP##Pigsty_Intro": "true",
+	"SideContent.Complete./Game/Maps/PigWorld/PigWorld_BP##Pigsty_Intro": "true",
+	"Bench.0": "true",
+	"ProfileCounter.TotalJumps": "836",
+	"SideContent.Unlock./Game/Maps/Coast/TwistyTrain/Coast_TwistyTrain_BP##WingsuitIntro": "true",
+	"SideContent.Complete./Game/Maps/Coast/TwistyTrain/Coast_TwistyTrain_BP##WingsuitIntro": "true"
 }
